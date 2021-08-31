@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to my studio!
+    text: the gentle appeal of the everyday
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Traditional painting with modern attitudes"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Commissions"
+        desc: "I can create your own unique piece, working with you to express your subject in my trademark style."
+        icon: fas fa-palette #find more at https://fontawesome.com/icons
+      - title: "Photography"
+        desc: "Using traditional methods or today's technology, I can capture those creative moments."
+        icon: fas fa-camera-retro
+      - title: "Stock paintings"
+        desc: "Choose from my current stock of one-off creations to enliven your space."
+        icon: fab fa-paint-brush
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here are a few of my recent creations"
     section: portfolio
     closebutton: "Close Project"
 
